@@ -58,6 +58,7 @@ jira
 jquery-detached
 jsch
 junit
+last-changes
 ldap
 lockable-resources
 mailer
